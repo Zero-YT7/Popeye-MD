@@ -46,7 +46,7 @@
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`](https://chat.whatsapp.com/LXExrjRrVd5LEXkXgCnBpH)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
