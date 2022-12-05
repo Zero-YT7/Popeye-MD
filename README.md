@@ -39,12 +39,6 @@
 <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><a>
 </p>
 
-## ```SETTING```
-
-- Owner number [Here](https://github.com/Zero-YT7/Popeye-MD/blob/master/options/config.js#L24)
-- Owner name [Here](https://github.com/Zero-YT7/Popeye-MD/blob/master/options/config.js#L25)
-- Botname [Here](https://github.com/Zero-YT7/Popeye-MD/blob/master/options/config.js#L26)
-
 ## ```DONASI```
 
 - [`SAWERIA`](https://saweria.co/ZeroYT7)
