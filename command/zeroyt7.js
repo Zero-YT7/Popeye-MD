@@ -108,7 +108,6 @@ var text = args.join(' ')
 var q = args.join(' ')
 teks1 = q.split("|")[0]
 teks2 = q.split("|")[1]
-var from = m.chat
 var quoted = m.quoted ? m.quoted : m
 var mime = (quoted.msg || quoted).mimetype || ''
 var isMedia = /image|video|sticker|audio/.test(mime)
