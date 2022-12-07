@@ -54,7 +54,7 @@
 "remove.bg": "^1.3.0",
 "util": "^0.12.4",
 "yargs": "^17.2.1",
-"xfarr-api": "^2.0.0"
+"xfarr-api": "^2.0.0",
 "ytsearch": "^2.10.2"
 }
 }
