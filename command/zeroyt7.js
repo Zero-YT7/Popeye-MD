@@ -102,7 +102,7 @@ var command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
 var args = body.trim().split(/ +/).slice(1)
 var pushname = m.pushName || "No Name"
 var botNumber = await zeroyt7.decodeJid(zeroyt7.user.id)
-var isOwner = global.owner == m.sender ? true : ["6281548926840@s.whatsapp.net"].includes(m.sender) ? true : false
+var isOwner = global.owner == m.sender ? true : [`${global.owner}`].includes(m.sender) ? true : false
 var itsMe = m.sender == botNumber ? true : false
 var text = args.join(' ')
 var q = args.join(' ')
