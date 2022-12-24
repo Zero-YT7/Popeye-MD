@@ -35,7 +35,7 @@
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
 <a href="https://instagram.com/Zero_YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6281548926840"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281326435288"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><a>
 </p>
 
@@ -46,7 +46,7 @@
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/LXExrjRrVd5LEXkXgCnBpH)
+- [`GROUP WA`](https://chat.whatsapp.com/BsGryUev84L9S9nsMg5gHg)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
