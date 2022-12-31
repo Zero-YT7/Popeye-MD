@@ -14,14 +14,14 @@ Donate Me For Support
 • KEREN
 JIKA INGIN BELI YG FULL NO ENC / FULL FITUR
 BISA LNGSUNG HUBUNGI SAYA
-NO 1 : 081326435288
-NO 2 : 085157740529
+NO 1 : 085157740529
+NO 2 : 081326435288
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ["081326435288"]
+global.owner = ["6285157740529"]
 global.ownerName = 'Zero YT7'
 global.botName = 'Popeye-MD'
 global.prefa = ['','!','.','🐦','🐤','🗿','/']
