@@ -26,13 +26,16 @@ BISA LNGSUNG HUBUNGI SAYA
 NO WA : 085157740529
 */
 
+//━━━━━━━━━━━━━━━[ USE A READ MODULE ]━━━━━━━━━━━━━━━━━//
+
+const { os, tmpdir } = require("os")
+
 //━━━━━━━━━━━━━━━[ USE A READ API ]━━━━━━━━━━━━━━━━━//
 
 const crypto = require('crypto')
 const fs = require('fs')
 const ffmpeg = require('fluent-ffmpeg')
 const path = require('path')
-const os = require('os')
 const webp = require('node-webpmux')
 
 //━━━━━━━━━━━━━━━[ USE A READ EXIF ]━━━━━━━━━━━━━━━━━//
