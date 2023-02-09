@@ -34,17 +34,16 @@ require('../options/mess')
 //━━━━━━━━━━━━━━━[ USE A READ MODULE ]━━━━━━━━━━━━━━━━━//
 
 var { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require("@adiwajshing/baileys")
-var { cheerio } = require("cheerio")
 var { exec, spawn, execSync } = require('child_process')
 var { EmojiAPI } = require("emoji-api")
-var { cookie } = require("cookie")
-var { FormData } = require("form-data")
 var { syntaxerror } = require("syntax-error")
 
 //━━━━━━━━━━━━━━━[ USE A READ API ]━━━━━━━━━━━━━━━━━//
 
 var axios = require('axios')
+var cheerio = require('cheerio')
 var chalk = require('chalk')
+var cookie = require('cookie')
 var crypto = require('crypto')
 var emoji = new EmojiAPI()
 var FileType = require('file-type')
@@ -52,6 +51,7 @@ var fetch = require('node-fetch')
 var fs = require('fs')
 var fsx = require('fs-extra')
 var ffmpeg = require('fluent-ffmpeg')
+var FormData = require('form-data')
 var Jimp = require('jimp')
 var moment = require('moment-timezone')
 var ms = require("ms")
